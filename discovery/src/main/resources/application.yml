@@ -1,0 +1,28 @@
+spring:
+  application:
+    name: registry
+  jpa:
+    show-sql: false
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.spatial.dialect.postgis.PostgisDialect
+
+  jmx:
+    enabled: false
+  datasource:
+    url: jdbc:postgresql://localhost:5432/carsystem
+    username: postgres
+    password: postgres
+
+server:
+  port: 8081
+  
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+    service-url:
+      defaultZone: http://localhost:${server.port}/eureka/
+

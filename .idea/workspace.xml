@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f18af8c5-76af-4db3-816e-832b86c0b874" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tl5DL1koNE5Yl7vuDXXh9H631s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.eti.scheffer.core.mail" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/carsystem/src/main/java/br/eti/scheffer/carsystem/clientes" />
+      <recent name="$PROJECT_DIR$/carsystem/src/main/java/br/eti/scheffer/carsystem/usuarios" />
+      <recent name="$PROJECT_DIR$/carsystem/src/main/java/br/eti/scheffer/carsystem/fipe" />
+      <recent name="$PROJECT_DIR$/carsystem/src/main/java/br/eti/scheffer/carsystem/security/config" />
+      <recent name="$PROJECT_DIR$/carsystem/src/main/java/br/eti/scheffer/carsystem/config" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CarsystemApplication">
+    <configuration name="AuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="auth" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.eti.scheffer.auth.AuthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarsystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="carsystem" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.eti.scheffer.carsystem.CarsystemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscoveryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="discovery" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.eti.scheffer.discovery.DiscoveryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.eti.scheffer.gateway.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TokenApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="token" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.eti.scheffer.token.TokenApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f18af8c5-76af-4db3-816e-832b86c0b874" name="Default Changelist" comment="" />
+      <created>1623330714543</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623330714543</updated>
+      <workItem from="1623330720165" duration="2425000" />
+      <workItem from="1623333232474" duration="56649000" />
+      <workItem from="1623886449210" duration="30628000" />
+      <workItem from="1624284530091" duration="12646000" />
+      <workItem from="1624830473676" duration="2448000" />
+      <workItem from="1624844541956" duration="3406000" />
+      <workItem from="1624903715917" duration="41382000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="528" y="162" width="374" height="599" key="#com.intellij.ide.util.MemberChooser" timestamp="1625790436709">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="528" y="162" width="374" height="599" key="#com.intellij.ide.util.MemberChooser/0.900.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1625790436709" />
+    <state x="528" y="162" width="374" height="578" key="#com.intellij.ide.util.MemberChooser/37.900.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1624063983232" />
+    <state x="348" y="131" width="733" height="641" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1623330741330">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="348" y="131" width="733" height="641" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/37.900.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1623330741330" />
+    <state x="453" y="200" width="524" height="506" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1625607713235">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="453" y="200" width="524" height="506" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.900.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1625607713235" />
+    <state x="453" y="199" width="524" height="504" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1623364740644">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="453" y="199" width="524" height="504" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/37.900.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1623364740644" />
+    <state width="542" height="485" key="DebuggerActiveHint" timestamp="1625596853718">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="542" height="485" key="DebuggerActiveHint/0.900.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1625596853718" />
+    <state width="542" height="485" key="DebuggerActiveHint/37.900.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1623351027690" />
+    <state width="958" height="227" key="GridCell.Tab.0.bottom" timestamp="1625939198506">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="958" height="227" key="GridCell.Tab.0.bottom/0.900.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1625939198506" />
+    <state width="955" height="299" key="GridCell.Tab.0.bottom/37.900.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1624816053279" />
+    <state width="958" height="227" key="GridCell.Tab.0.center" timestamp="1625939198506">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="958" height="227" key="GridCell.Tab.0.center/0.900.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1625939198506" />
+    <state width="955" height="299" key="GridCell.Tab.0.center/37.900.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1624816053278" />
+    <state width="958" height="227" key="GridCell.Tab.0.left" timestamp="1625939198506">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="958" height="227" key="GridCell.Tab.0.left/0.900.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1625939198506" />
+    <state width="955" height="299" key="GridCell.Tab.0.left/37.900.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1624816053278" />
+    <state width="958" height="227" key="GridCell.Tab.0.right" timestamp="1625939198506">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="958" height="227" key="GridCell.Tab.0.right/0.900.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1625939198506" />
+    <state width="955" height="299" key="GridCell.Tab.0.right/37.900.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1624816053278" />
+    <state width="958" height="227" key="GridCell.Tab.1.bottom" timestamp="1625939198506">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="958" height="227" key="GridCell.Tab.1.bottom/0.900.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1625939198506" />
+    <state width="955" height="299" key="GridCell.Tab.1.bottom/37.900.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1624816053280" />
+    <state width="958" height="227" key="GridCell.Tab.1.center" timestamp="1625939198506">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="958" height="227" key="GridCell.Tab.1.center/0.900.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1625939198506" />
+    <state width="955" height="299" key="GridCell.Tab.1.center/37.900.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1624816053280" />
+    <state width="958" height="227" key="GridCell.Tab.1.left" timestamp="1625939198506">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="958" height="227" key="GridCell.Tab.1.left/0.900.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1625939198506" />
+    <state width="955" height="299" key="GridCell.Tab.1.left/37.900.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1624816053279" />
+    <state width="958" height="227" key="GridCell.Tab.1.right" timestamp="1625939198506">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="958" height="227" key="GridCell.Tab.1.right/0.900.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1625939198506" />
+    <state width="955" height="299" key="GridCell.Tab.1.right/37.900.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1624816053280" />
+    <state width="958" height="227" key="GridCell.Tab.2.bottom" timestamp="1625598374776">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="958" height="227" key="GridCell.Tab.2.bottom/0.900.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1625598374776" />
+    <state width="955" height="299" key="GridCell.Tab.2.bottom/37.900.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1624154300076" />
+    <state width="958" height="227" key="GridCell.Tab.2.center" timestamp="1625598374775">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="958" height="227" key="GridCell.Tab.2.center/0.900.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1625598374775" />
+    <state width="955" height="299" key="GridCell.Tab.2.center/37.900.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1624154300075" />
+    <state width="958" height="227" key="GridCell.Tab.2.left" timestamp="1625598374775">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="958" height="227" key="GridCell.Tab.2.left/0.900.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1625598374775" />
+    <state width="955" height="299" key="GridCell.Tab.2.left/37.900.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1624154300075" />
+    <state width="958" height="227" key="GridCell.Tab.2.right" timestamp="1625598374776">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="958" height="227" key="GridCell.Tab.2.right/0.900.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1625598374776" />
+    <state width="955" height="299" key="GridCell.Tab.2.right/37.900.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1624154300075" />
+    <state x="253" y="108" width="924" height="687" key="Maven.ArtifactSearchDialog" timestamp="1623349809380">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="253" y="108" width="924" height="687" key="Maven.ArtifactSearchDialog/37.900.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1623349809380" />
+    <state x="224" y="85" width="992" height="737" key="SettingsEditor" timestamp="1624844498012">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="224" y="85" width="992" height="737" key="SettingsEditor/0.900.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1624844498012" />
+    <state x="224" y="85" width="992" height="733" key="SettingsEditor/37.900.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1623980969945" />
+    <state x="413" y="277" key="com.intellij.ide.util.TipDialog" timestamp="1624903719427">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="413" y="277" key="com.intellij.ide.util.TipDialog/0.900.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1624903719427" />
+    <state x="413" y="277" key="com.intellij.ide.util.TipDialog/37.900.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1624284528968" />
+    <state x="104" y="25" width="1222" height="853" key="new project wizard" timestamp="1623370248562">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="104" y="25" width="1222" height="853" key="new project wizard/37.900.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1623370248562" />
+    <state x="383" y="194" width="672" height="678" key="search.everywhere.popup" timestamp="1625584347226">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="383" y="194" width="672" height="678" key="search.everywhere.popup/0.900.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1625584347226" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/carsystem/src/main/java/br/eti/scheffer/auth/security/filter/JwtUsernameAndPasswordAuthenticationFilter.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/carsystem/src/main/java/br/eti/scheffer/carsystem/usuarios/services/impl/UsersServiceImpl.java</url>
+          <line>191</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core/src/main/java/br/eti/scheffer/core/mail/SendHtmlMail.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/carsystem/src/main/java/br/eti/scheffer/carsystem/usuarios/controllers/RegisterController.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/carsystem/src/main/java/br/eti/scheffer/carsystem/usuarios/services/impl/UsersServiceImpl.java</url>
+          <line>116</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/carsystem/src/main/java/br/eti/scheffer/carsystem/usuarios/services/impl/UsersServiceImpl.java</url>
+          <line>113</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/carsystem/src/main/java/br/eti/scheffer/carsystem/clientes/controllers/ClientesController.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/carsystem/src/main/java/br/eti/scheffer/carsystem/clientes/controllers/ClientesController.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/carsystem/src/main/java/br/eti/scheffer/carsystem/clientes/services/impl/ClientesServiceImpl.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/carsystem/src/main/java/br/eti/scheffer/carsystem/clientes/services/impl/ClientesServiceImpl.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/carsystem/src/main/java/br/eti/scheffer/carsystem/usuarios/services/impl/UsersServiceImpl.java</url>
+          <line>129</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
